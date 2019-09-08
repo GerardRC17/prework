@@ -1,1 +1,3 @@
 hola soy gerardo
+
+estoy estudiando git
